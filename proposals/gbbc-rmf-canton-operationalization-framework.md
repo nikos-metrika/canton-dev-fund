@@ -3,7 +3,7 @@
 **Author:** [Metrika, Inc.](https://www.metrika.co) <br>
 **Status:** Draft <br>
 **Created:** 2026-05-15 <br>
-**Label:** regulatory-compliance <br>
+**Label:** `regulatory-compliance` <br>
 **Champion:**  Shaul Kfir <br>
 
 ---
