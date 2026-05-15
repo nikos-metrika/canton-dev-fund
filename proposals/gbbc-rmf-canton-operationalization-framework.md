@@ -4,7 +4,7 @@
 **Status:** Draft  
 **Created:** 2026-05-15  
 **Label:** `regulatory-compliance` \
-**Champion:** :Shaul Kfir
+**Champion:** Shaul Kfir
 
 ---
 
