@@ -1,10 +1,12 @@
 # Development Fund Proposal
 
-**Author:** Metrika, Inc.  
-**Status:** Draft  
-**Created:** 2026-05-15  
-**Label:** `regulatory-compliance` \
-**Champion:** Shaul Kfir
+| Field | Value |
+| :---- | :---- |
+| **Author** | Metrika, Inc. |
+| **Status** | Draft |
+| **Created** | 2026-05-15 |
+| **Label** | `regulatory-compliance` |
+| **Champion** | Shaul Kfir |
 
 ---
 
