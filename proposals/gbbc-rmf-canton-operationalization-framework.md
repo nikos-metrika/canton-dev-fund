@@ -1,12 +1,10 @@
 # Development Fund Proposal
 
-| Field | Value |
-| :---- | :---- |
-| **Author** | Metrika, Inc. |
-| **Status** | Draft |
-| **Created** | 2026-05-15 |
-| **Label** | `regulatory-compliance` |
-| **Champion** | Shaul Kfir |
+**Author:** [Metrika, Inc.](https://www.metrika.co) 
+**Status:** Draft
+**Created:** 2026-05-15
+**Label:** regulatory-compliance
+**[Champion](https://github.com/canton-foundation/canton-dev-fund/blob/main/sig-directory.md):**  Shaul Kfir
 
 ---
 
